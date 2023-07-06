@@ -3,7 +3,7 @@
 
 ***Conteúdo da Aula:***
 
-1 .[Animal.](Animal.java)
+1. [Animal.](Animal.java)
 2. [Programa.](Programa.java)
 3. [Cachorro.](Cachorro.java)
 4. [Gato.](Gato.java)
