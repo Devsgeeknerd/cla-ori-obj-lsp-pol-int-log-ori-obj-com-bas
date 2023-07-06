@@ -1,4 +1,4 @@
-package br.com.desvgeeknerd.zoologico.classes;
+package br.com.devsgeeknerd.zoologico.classes;
 
 public abstract class Animal implements Animavel {
     private String nome;
